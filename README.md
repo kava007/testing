@@ -1,2 +1,2 @@
 # testing
-Este es un ejemplo
+Esta es una página de ejemplo
